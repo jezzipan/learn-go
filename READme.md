@@ -1,7 +1,5 @@
 ### Introdução ao Go: Aprenda a Programar com a Linguagem do Google :rocket:
 
-:thoughtful:
-
 #### Conteúdos: 
 
 01 - Visão Geral do Curso
